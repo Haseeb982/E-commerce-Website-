@@ -56,7 +56,7 @@ This is a fully functional eCommerce website built using the MERN (MongoDB, Expr
    cd frontend
    npm start
    ```
-![eCommerce Screenshot](https://raw.githubusercontent.com/yourusername/repository/main/assets/image.pn)
+![eCommerce Screenshot](https://github.com/Haseeb982/E-commerce-Website-/blob/29808e1014da95cb21d3534739f26e972876f24a/ecommerce.PNG)
 
 5. Open `http://localhost:3000` in your browser.
 
