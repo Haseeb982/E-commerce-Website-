@@ -1,3 +1,5 @@
+![eCommerce Screenshot](https://github.com/Haseeb982/E-commerce-Website-/blob/29808e1014da95cb21d3534739f26e972876f24a/ecommerce.PNG)
+
 # VibeStore e-commerce Website
 
 This is a fully functional eCommerce website built using the MERN (MongoDB, Express, React, Node.js) stack. It includes features such as product listing, user authentication, shopping cart management, and secure payment processing. The project also utilizes Redux for state management and React Router for navigation.
@@ -56,7 +58,6 @@ This is a fully functional eCommerce website built using the MERN (MongoDB, Expr
    cd frontend
    npm start
    ```
-![eCommerce Screenshot](https://github.com/Haseeb982/E-commerce-Website-/blob/29808e1014da95cb21d3534739f26e972876f24a/ecommerce.PNG)
 
 5. Open `http://localhost:3000` in your browser.
 
